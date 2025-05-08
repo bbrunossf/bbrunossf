@@ -4,6 +4,9 @@ Meu nome é Bruno Oliveira, e criei esta página como primeiro teste para divulg
 Sou engenheiro civil e tenho estudado Python e outros temas desde 2021, e agora com planos para migração de carreira.
 
 Espero que esta página também possa servir de canal para novos contatos na área de análise de dados!
+
+Visite a página principal com apresentação dos projetos em <https://bbrunossf.github.io/>
+
 <!--
 **bbrunossf/bbrunossf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
